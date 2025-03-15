@@ -14,8 +14,8 @@ Este projeto foi desenvolvido como parte da **pós-graduação**, aplicando boas
 
 ✔️ **Cálculo preciso do IMC** com base nos dados do usuário  
 ✔️ **Classificação automática**: Abaixo do Peso, Normal, Sobrepeso, Obesidade  
-✔️ **Interface amigável e responsiva**, adaptada para dispositivos móveis  
-✔️ **Uso de boas práticas**, como MVVM e injeção de dependências  
+✔️ **Interface amigável**  
+✔️ **Uso de boas práticas**
 ✔️ **Compatível com versões recentes do Android**  
 
 ## 🛠️ Tecnologias Utilizadas
